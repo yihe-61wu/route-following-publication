@@ -147,3 +147,10 @@ because it takes visual inputs (only) as input, and return control commands of l
 Running `route_following.py` with `model_name='lamb'` simulates this model in a route following task.
 Other variations of the model and different models for comparison can be found in `simulation_main.py`.
 
+
+### Licenses
+You are welcome to (re-)use everything in this repository for non-commercial purposes,
+but please cite us and redistribute any derivative work with the same licenses.
+More explicitly:
+- The software is distributed with the **GNU 3.0** license.
+- The real-world experimental data is distributed with the **CC BY 4.0** license.
