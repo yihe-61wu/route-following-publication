@@ -153,4 +153,4 @@ You are welcome to (re-)use everything in this repository for non-commercial pur
 but please cite us and redistribute any derivative work with the same licenses.
 More explicitly:
 - The software is distributed with the **GNU GPL 3.0** license.
-- The real-world experimental data is distributed with the **CC BY 4.0** license.
+- The real-world experimental data is distributed with the **CC BY-NC-SA 4.0** license.
