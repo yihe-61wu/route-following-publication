@@ -148,7 +148,7 @@ Running `route_following.py` with `model_name='lamb'` simulates this model in a 
 Other variations of the model and different models for comparison can be found in `simulation_main.py`.
 
 
-### Licenses
+## Licenses
 You are welcome to (re-)use everything in this repository for non-commercial purposes,
 but please cite us and redistribute any derivative work with the same licenses.
 More explicitly:
