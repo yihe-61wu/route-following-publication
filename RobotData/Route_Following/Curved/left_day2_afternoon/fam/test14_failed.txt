@@ -1,0 +1,329 @@
+start testing ...
+23:46:48.79 - Familiarity for left view: 6.591482913118535
+23:46:48.79 - Familiarity for right view: 4.874908270454175
+Control va: 1.0479341151264083, Control vl: 0
+Following Route!
+23:46:49.25 - Familiarity for left view: 5.5911899081822805
+23:46:49.25 - Familiarity for right view: 4.873809179118712
+Control va: 0.47985337232744135, Control vl: 0
+Following Route!
+23:46:49.69 - Familiarity for left view: 5.753094648600404
+23:46:49.69 - Familiarity for right view: 5.840602917936598
+Control va: -0.05283542043751331, Control vl: 0.2857013388865611
+Following Route!
+23:46:50.16 - Familiarity for left view: 6.13930136059567
+23:46:50.16 - Familiarity for right view: 5.804811988125286
+Control va: 0.1960317638431839, Control vl: 0
+Following Route!
+23:46:50.63 - Familiarity for left view: 6.07519170594036
+23:46:50.63 - Familiarity for right view: 5.7481139275675055
+Control va: 0.19364672787627948, Control vl: 0
+Following Route!
+23:46:51.08 - Familiarity for left view: 5.991292282470686
+23:46:51.08 - Familiarity for right view: 5.648215728878179
+Control va: 0.20632623585171983, Control vl: 0
+Following Route!
+23:46:51.54 - Familiarity for left view: 5.548796499460903
+23:46:51.54 - Familiarity for right view: 5.492704003574187
+Control va: 0.03556106084486272, Control vl: 0.2936089795199798
+Following Route!
+23:46:51.99 - Familiarity for left view: 5.231299967422575
+23:46:51.99 - Familiarity for right view: 5.329215863523952
+Control va: -0.06490320015440097, Control vl: 0.27814155358226017
+Following Route!
+23:46:52.45 - Familiarity for left view: 4.998389440771483
+23:46:52.45 - Familiarity for right view: 5.287713164521262
+Control va: -0.1968934341765505, Control vl: 0
+Following Route!
+23:46:52.90 - Familiarity for left view: 5.166993647987052
+23:46:52.90 - Familiarity for right view: 5.405214044511327
+Control va: -0.15772890811189288, Control vl: 0.12395472817722664
+Following Route!
+23:46:53.37 - Familiarity for left view: 5.269199951218939
+23:46:53.37 - Familiarity for right view: 5.49411322472841
+Control va: -0.14627400400134918, Control vl: 0.16066034750441646
+Following Route!
+23:46:53.83 - Familiarity for left view: 5.34610049766473
+23:46:53.83 - Familiarity for right view: 5.386109727227383
+Control va: -0.026095706389443685, Control vl: 0.2965755254974824
+Following Route!
+23:46:54.32 - Familiarity for left view: 5.652295394897511
+23:46:54.32 - Familiarity for right view: 4.97221088087112
+Control va: 0.44807650112102104, Control vl: 0
+Following Route!
+23:46:54.78 - Familiarity for left view: 5.800295147851258
+23:46:54.78 - Familiarity for right view: 5.3247994467828645
+Control va: 0.2991857623470587, Control vl: 0
+Following Route!
+23:46:55.27 - Familiarity for left view: 5.589693251256796
+23:46:55.27 - Familiarity for right view: 5.0761072636488915
+Control va: 0.33706817488580443, Control vl: 0
+Following Route!
+23:46:55.72 - Familiarity for left view: 5.551700044677474
+23:46:55.72 - Familiarity for right view: 5.001001088608657
+Control va: 0.3652991441520429, Control vl: 0
+Following Route!
+23:46:56.19 - Familiarity for left view: 5.203492180350564
+23:46:56.19 - Familiarity for right view: 5.340402841109264
+Control va: -0.09089379431038894, Control vl: 0.25537218812467055
+Following Route!
+23:46:56.65 - Familiarity for left view: 4.437990987697919
+23:46:56.65 - Familiarity for right view: 4.860010714642517
+Control va: -0.3177175250321352, Control vl: 0
+Following Route!
+23:46:57.13 - Familiarity for left view: 3.8026773250539323
+23:46:57.13 - Familiarity for right view: 4.516207725238156
+Control va: -0.6004065173510477, Control vl: 0
+Following Route!
+23:46:57.59 - Familiarity for left view: 4.117990755909864
+23:46:57.59 - Familiarity for right view: 4.59640341824784
+Control va: -0.38429391297181276, Control vl: 0
+Following Route!
+23:46:58.05 - Familiarity for left view: 4.926196285880799
+23:46:58.05 - Familiarity for right view: 4.4767000712146565
+Control va: 0.33462811703637024, Control vl: 0
+Following Route!
+23:46:58.52 - Familiarity for left view: 4.536186334247836
+23:46:58.52 - Familiarity for right view: 5.077909251549372
+Control va: -0.3944271603366117, Control vl: 0
+Following Route!
+23:46:59.02 - Familiarity for left view: 4.628589635495096
+23:46:59.02 - Familiarity for right view: 4.529702809278573
+Control va: 0.07558262500240215, Control vl: 0.26992925071810714
+Following Route!
+23:46:59.46 - Familiarity for left view: 4.694884219396525
+23:46:59.46 - Familiarity for right view: 5.080615746487181
+Control va: -0.2762130529443977, Control vl: 0
+Following Route!
+23:46:59.92 - Familiarity for left view: 4.84429252740659
+23:46:59.92 - Familiarity for right view: 5.27171469333079
+Control va: -0.2957644351356358, Control vl: 0
+Following Route!
+23:47:00.42 - Familiarity for left view: 4.873099411423839
+23:47:00.42 - Familiarity for right view: 5.159008499017954
+Control va: -0.19949582191751675, Control vl: 0
+Following Route!
+23:47:00.92 - Familiarity for left view: 5.301091412447943
+23:47:00.92 - Familiarity for right view: 5.651417833060521
+Control va: -0.22390165480058477, Control vl: 0
+Following Route!
+23:47:01.39 - Familiarity for left view: 5.766597449014065
+23:47:01.39 - Familiarity for right view: 6.0119046311732935
+Control va: -0.14578681256957296, Control vl: 0.16198338137726537
+Following Route!
+23:47:01.84 - Familiarity for left view: 5.862395562184221
+23:47:01.84 - Familiarity for right view: 6.050300593587487
+Control va: -0.1104145696845947, Control vl: 0.23114036515523925
+Following Route!
+23:47:02.30 - Familiarity for left view: 5.880998018121844
+23:47:02.30 - Familiarity for right view: 6.272106926534398
+Control va: -0.22527266664406406, Control vl: 0
+Following Route!
+23:47:02.76 - Familiarity for left view: 5.925698498190826
+23:47:02.76 - Familiarity for right view: 6.276298237802468
+Control va: -0.20113086656072704, Control vl: 0
+Following Route!
+23:47:03.23 - Familiarity for left view: 5.825090531075897
+23:47:03.23 - Familiarity for right view: 6.244003680933724
+Control va: -0.24296703609180906, Control vl: 0
+Following Route!
+23:47:03.69 - Familiarity for left view: 5.929390451926016
+23:47:03.69 - Familiarity for right view: 6.1364030631676725
+Control va: -0.1200988792721223, Control vl: 0.21616840100426465
+Following Route!
+23:47:04.21 - Familiarity for left view: 5.840288573755107
+23:47:04.21 - Familiarity for right view: 5.760713925841765
+Control va: 0.048015034512124966, Control vl: 0.28824237957385507
+Following Route!
+23:47:04.66 - Familiarity for left view: 6.036386404537798
+23:47:04.66 - Familiarity for right view: 5.885011825930272
+Control va: 0.08888404109717238, Control vl: 0.25748569225242113
+Following Route!
+23:47:05.16 - Familiarity for left view: 6.042183231671933
+23:47:05.16 - Familiarity for right view: 6.10361450865693
+Control va: -0.03540475052265595, Control vl: 0.2936656447752877
+Following Route!
+23:47:05.64 - Familiarity for left view: 5.960979938769103
+23:47:05.64 - Familiarity for right view: 5.451124335322891
+Control va: 0.3127371726024166, Control vl: 0
+Following Route!
+23:47:06.10 - Familiarity for left view: 6.100279991525676
+23:47:06.10 - Familiarity for right view: 6.317020095144686
+Control va: -0.12218281870804769, Control vl: 0.21263601867432774
+Following Route!
+23:47:06.56 - Familiarity for left view: 5.960385353520853
+23:47:06.56 - Familiarity for right view: 6.251711391487016
+Control va: -0.16698870868319746, Control vl: 0.079651199093012
+Following Route!
+23:47:07.02 - Familiarity for left view: 5.9520829605724375
+23:47:07.02 - Familiarity for right view: 6.25021303686536
+Control va: -0.17102605398923793, Control vl: 0.04743697472026235
+Following Route!
+23:47:07.46 - Familiarity for left view: 5.943384007657105
+23:47:07.46 - Familiarity for right view: 6.3458130007339
+Control va: -0.22922595753116545, Control vl: 0
+Following Route!
+23:47:07.92 - Familiarity for left view: 6.383280035493367
+23:47:07.92 - Familiarity for right view: 6.6042013039301874
+Control va: -0.11907226956804073, Control vl: 0.2178655178309489
+Following Route!
+23:47:08.39 - Familiarity for left view: 6.630492001397931
+23:47:08.39 - Familiarity for right view: 6.609518046597941
+Control va: 0.011088940496850509, Control vl: 0.29938454568660006
+Following Route!
+23:47:08.87 - Familiarity for left view: 6.63639563209531
+23:47:08.87 - Familiarity for right view: 6.62561666679518
+Control va: 0.005689389769848194, Control vl: 0.2998381105399049
+Following Route!
+23:47:09.35 - Familiarity for left view: 6.603293357422492
+23:47:09.35 - Familiarity for right view: 6.2823140872729795
+Control va: 0.17436934197242965, Control vl: 0
+Following Route!
+23:47:09.80 - Familiarity for left view: 6.234191093872811
+23:47:09.80 - Familiarity for right view: 6.3100047462083575
+Control va: -0.04230606514075216, Control vl: 0.29091337294273584
+Following Route!
+23:47:10.28 - Familiarity for left view: 6.287991560431571
+23:47:10.28 - Familiarity for right view: 6.356708365082085
+Control va: -0.03804104766322122, Control vl: 0.2926749666063936
+Following Route!
+23:47:10.74 - Familiarity for left view: 6.373493152990962
+23:47:10.74 - Familiarity for right view: 6.09120738977282
+Control va: 0.15852770275128145, Control vl: 0.12085901861757792
+Following Route!
+23:47:11.22 - Familiarity for left view: 6.411896755620351
+23:47:11.22 - Familiarity for right view: 6.036517133669392
+Control va: 0.21108370729201675, Control vl: 0
+Following Route!
+23:47:11.68 - Familiarity for left view: 6.2633933458762625
+23:47:11.68 - Familiarity for right view: 5.701217707560933
+Control va: 0.3289057580419041, Control vl: 0
+Following Route!
+23:47:12.14 - Familiarity for left view: 6.412291374287105
+23:47:12.14 - Familiarity for right view: 5.557214576727286
+Control va: 0.5000655505260411, Control vl: 0
+Following Route!
+23:47:12.60 - Familiarity for left view: 5.625479640119146
+23:47:12.60 - Familiarity for right view: 5.41151560536224
+Control va: 0.13570253587918565, Control vl: 0.18642549521960505
+Following Route!
+23:47:13.06 - Familiarity for left view: 5.66838944516673
+23:47:13.06 - Familiarity for right view: 6.264710605467688
+Control va: -0.3498041669301842, Control vl: 0
+Following Route!
+23:47:13.51 - Familiarity for left view: 5.842991808509414
+23:47:13.51 - Familiarity for right view: 6.115712385066944
+Control va: -0.15963636235171355, Control vl: 0.11639886359126209
+Following Route!
+23:47:14.02 - Familiarity for left view: 5.625292285378519
+23:47:14.02 - Familiarity for right view: 5.653615783394467
+Control va: -0.017578340465470632, Control vl: 0.29845101078642705
+Following Route!
+23:47:14.47 - Familiarity for left view: 5.314490190810221
+23:47:14.47 - Familiarity for right view: 5.8788154391902685
+Control va: -0.3529142211638296, Control vl: 0
+Following Route!
+23:47:14.94 - Familiarity for left view: 5.413186948958969
+23:47:14.94 - Familiarity for right view: 5.910909941811781
+Control va: -0.3076678858875914, Control vl: 0
+Following Route!
+23:47:15.42 - Familiarity for left view: 5.518987871589266
+23:47:15.42 - Familiarity for right view: 5.219115438883552
+Control va: 0.19548210407817057, Control vl: 0
+Following Route!
+23:47:15.89 - Familiarity for left view: 6.279085102627676
+23:47:15.89 - Familiarity for right view: 5.005910630586264
+Control va: 0.7897407774873573, Control vl: 0
+Following Route!
+23:47:16.35 - Familiarity for left view: 6.247989893591733
+23:47:16.35 - Familiarity for right view: 5.020315972706361
+Control va: 0.7626450282912708, Control vl: 0
+Following Route!
+23:47:16.82 - Familiarity for left view: 5.539687592040008
+23:47:16.82 - Familiarity for right view: 6.09881006068745
+Control va: -0.3362854379761713, Control vl: 0
+Following Route!
+23:47:17.28 - Familiarity for left view: 5.648696654051443
+23:47:17.28 - Familiarity for right view: 5.233807410573686
+Control va: 0.26687099651860735, Control vl: 0
+Following Route!
+23:47:17.74 - Familiarity for left view: 5.09559961028112
+23:47:17.74 - Familiarity for right view: 5.616403856897805
+Control va: -0.3403312683278003, Control vl: 0
+Following Route!
+23:47:18.19 - Familiarity for left view: 5.111193841768098
+23:47:18.19 - Familiarity for right view: 5.2262055236396
+Control va: -0.07788049437217082, Control vl: 0.26796247085933284
+Following Route!
+23:47:18.66 - Familiarity for left view: 5.096095843665259
+23:47:18.66 - Familiarity for right view: 5.727002523869412
+Control va: -0.40804828815716015, Control vl: 0
+Following Route!
+23:47:19.17 - Familiarity for left view: 5.3405843303069505
+23:47:19.17 - Familiarity for right view: 5.684209699235004
+Control va: -0.21817891346096305, Control vl: 0
+Following Route!
+23:47:19.63 - Familiarity for left view: 5.449995013555587
+23:47:19.63 - Familiarity for right view: 5.773713279211446
+Control va: -0.20189653904773355, Control vl: 0
+Following Route!
+23:47:20.10 - Familiarity for left view: 5.270488132035301
+23:47:20.10 - Familiarity for right view: 5.750113555722852
+Control va: -0.30464561381818955, Control vl: 0
+Following Route!
+23:47:20.56 - Familiarity for left view: 5.152574509305527
+23:47:20.56 - Familiarity for right view: 5.706306932555247
+Control va: -0.35695453380728936, Control vl: 0
+Following Route!
+23:47:21.02 - Familiarity for left view: 5.506883398646887
+23:47:21.02 - Familiarity for right view: 5.075214110846285
+Control va: 0.2855468882131799, Control vl: 0
+Following Route!
+23:47:21.47 - Familiarity for left view: 6.276987691339223
+23:47:21.47 - Familiarity for right view: 5.011016560798694
+Control va: 0.7850633040030353, Control vl: 0
+Following Route!
+23:47:21.92 - Familiarity for left view: 6.28898867773468
+23:47:21.92 - Familiarity for right view: 4.924813957822863
+Control va: 0.8515597562867163, Control vl: 0
+Following Route!
+23:47:22.37 - Familiarity for left view: 5.348990792334066
+23:47:22.37 - Familiarity for right view: 5.7574168167747395
+Control va: -0.2574173640754867, Control vl: 0
+Following Route!
+23:47:22.82 - Familiarity for left view: 5.413890793282411
+23:47:22.82 - Familiarity for right view: 5.2356084201399735
+Control va: 0.11718641289950418, Control vl: 0.22091182380135463
+Following Route!
+23:47:23.27 - Familiarity for left view: 5.115486464831303
+23:47:23.27 - Familiarity for right view: 5.073821883108376
+Control va: 0.02862334342050408, Control vl: 0.2958751639362379
+Following Route!
+23:47:23.73 - Familiarity for left view: 5.12419050250613
+23:47:23.73 - Familiarity for right view: 5.074717065882185
+Control va: 0.033955995193153864, Control vl: 0.2941784682320029
+Following Route!
+23:47:24.22 - Familiarity for left view: 5.155493226941532
+23:47:24.22 - Familiarity for right view: 4.909513547671707
+Control va: 0.1710736806687289, Control vl: 0.04691894443997334
+Following Route!
+23:47:24.68 - Familiarity for left view: 5.087390864894423
+23:47:24.68 - Familiarity for right view: 4.952212017648945
+Control va: 0.09425192826736876, Control vl: 0.2516937068217009
+Following Route!
+23:47:25.14 - Familiarity for left view: 5.176892156716951
+23:47:25.14 - Familiarity for right view: 5.314712461033152
+Control va: -0.09195372541786603, Control vl: 0.25423126704897475
+Following Route!
+23:47:25.62 - Familiarity for left view: 5.414779070771197
+23:47:25.62 - Familiarity for right view: 5.5147056127020155
+Control va: -0.0639998878056384, Control vl: 0.2787687986174154
+Following Route!
+23:47:26.08 - Familiarity for left view: 5.277393298078497
+23:47:26.08 - Familiarity for right view: 5.579904130688246
+Control va: -0.1950371022035061, Control vl: 0
+Following Route!
+23:47:26.54 - Familiarity for left view: 5.071992323477459
+23:47:26.54 - Familiarity for right view: 5.61880733952426
+Control va: -0.3580373061871481, Control vl: 0
+Following Route!
